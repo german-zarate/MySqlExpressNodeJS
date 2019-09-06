@@ -1,4 +1,13 @@
-// https://github.com/BaseMax/MysqlExpressJs
+/**
+ *
+ * @Name : MysqlExpressJs/app.js
+ * @Version : 1.0
+ * @Programmer : Max
+ * @Date : 2019-09-06
+ * @Released under : https://github.com/BaseMax/MysqlExpressJs/blob/master/LICENSE
+ * @Repository : https://github.com/BaseMax/MysqlExpressJs
+ *
+ **/
 let express = require('express')
 let cookieParser = require('cookie-parser')
 let bodyParser = require('body-parser')
